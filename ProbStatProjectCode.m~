@@ -1,0 +1,31 @@
+%% Final Project MATLAB Code
+%Probability and Statistics for Engineers - 560.348
+%Spring 2019 
+%Professor Sauleh Siddiqui
+%Group Members:
+    %Anna Frazier
+    %Alex Carson
+    %Arion Morshedian 
+    %Nikhil Murty 
+    %Justin Kim 
+  
+%% Introduction
+  
+%% Are you an athlete? (Determines what results the user receives)
+status = input('Are you an athlete? (yes or no) \n', 's');
+disp('Awesome! Let me ask you some more questions...');
+height = input('How tall are you? (in centimeters) \n');
+sex = input('What is your biological gender? (male or female) \n', 's');
+age = input('How old are you? (in years) \n');
+
+%% status = yes
+if status == 'yes'
+    sport = input('What 
+end
+%% status = no
+%if status == 'no'
+    %weight = 
+    %country = 
+
+
+
